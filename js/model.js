@@ -118,6 +118,130 @@ if (localStorage.getItem("data") != null) {
             id: 27,
             question: 'глубоко',
             answer: 'tief'
+        }, {
+            id: 28,
+            question: 'эхо',
+            answer: 'der Widerhall'
+        }, {
+            id: 29,
+            question: 'свистеть',
+            answer: 'schwirren'
+        }, {
+            id: 30,
+            question: 'жара',
+            answer: 'die Hitze'
+
+        }, {
+            id: 31,
+            question: 'прямо',
+            answer: 'gerade'
+
+        }, {
+            id: 32,
+            question: 'шагать',
+            answer: 'shreiten'
+        }, {
+            id: 33,
+            question: 'молчать',
+            answer: 'schweigend'
+        }, {
+            id: 34,
+            question: 'звук',
+            answer: 'der Laut'
+        }, {
+            id: 35,
+            question: 'позади',
+            answer: 'hinter'
+
+        }, {
+            id: 36,
+            question: 'пройти насквозь',
+            answer: 'durchgehen'
+
+        }, {
+            id: 37,
+            question: 'внимательно',
+            answer: 'aufmerksam'
+        }, {
+            id: 38,
+            question: 'что-то начинать',
+            answer: 'etwas antreten'
+        }, {
+            id: 39,
+            question: 'искать',
+            answer: 'suchen'
+        }, {
+            id: 40,
+            question: 'становиться',
+            answer: 'werden'
+        }, {
+            id: 41,
+            question: 'компания',
+            answer: 'der Gesellschaft'
+        }, {
+            id: 42,
+            question: 'насквозь',
+            answer: 'hindurch'
+        }, {
+            id: 43,
+            question: 'между',
+            answer: 'zwischen'
+        }, {
+            id: 44,
+            question: 'земля',
+            answer: 'der Boden'
+        }, {
+            id: 45,
+            question: 'держать',
+            answer: 'halten'
+        }, {
+            id: 46,
+            question: 'продолжать',
+            answer: 'forsetzen'
+        }, {
+            id: 47,
+            question: 'речь',
+            answer: 'die Rede'
+        }, {
+            id: 48,
+            question: 'усердие',
+            answer: 'der Eifer'
+        }, {
+            id: 49,
+            question: 'жарить',
+            answer: 'braten'
+        }, {
+            id: 50,
+            question: 'нарезать',
+            answer: 'tranchieren'
+        }, {
+            id: 51,
+            question: 'видеть',
+            answer: 'sehen'
+        }, {
+            id: 52,
+            question: 'опустошать',
+            answer: 'ausleer'
+        }, {
+            id: 53,
+            question: 'пустой',
+            answer: 'leer'
+        }, {
+            id: 54,
+            question: 'переворачивать',
+            answer: 'umkehren'
+        }, {
+            id: 55,
+            question: 'перевернутый',
+            answer: 'umgekehrt'
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
