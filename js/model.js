@@ -235,13 +235,55 @@ if (localStorage.getItem("data") != null) {
             question: 'перевернутый',
             answer: 'umgekehrt'
         // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     id: 56,
+        //     question: 'записывать',
+        //     answer: 'aufschreiben'
         // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     id: 57,
+        //     question: 'ящик',
+        //     answer: 'das Fach'
+            
+// }, {
+//     id: 58,
+//     question: 'хранить',
+//     answer: 'aufbewahren'
+// }, {
+//     id: ,
+//     question: 'прелестный',
+//     answer: 'anmutig'
+// }, {
+//     id: ,
+//     question: '',
+//     answer: ''
+// }, {
+//     id: ,
+//     question: '',
+//     answer: ''
+// }, {
+//     id: ,
+//     question: '',
+//     answer: ''
+// }, {
+//     id: ,
+//     question: '',
+//     answer: ''
+// }, {
+//     id: ,
+//     question: '',
+//     answer: ''
+// }, {
+//     id: ,
+//     question: '',
+//     answer: ''
+// }, {
+//     id: ,
+//     question: '',
+//     answer: ''
+// }, {
+//     id: ,
+//     question: '',
+//     answer: ''
+            
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
