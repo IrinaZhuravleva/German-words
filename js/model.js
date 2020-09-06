@@ -284,56 +284,56 @@ if (localStorage.getItem("data") != null) {
             answer: 'der Pfeiler'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'угол',
+        //     answer: 'der Winkel'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'скрипач',
+        //     answer: 'der Geigenspieler'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'подвал',
+        //     answer: 'das Gewölbe'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'лоно, колени сидящего',
+        //     answer: 'der Schoß'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'участие',
+        //     answer: 'die Teilnahme'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'участвовать в чем-л',
+        //     answer: 'an etwas /Dat./ teilnehmen'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'пробка',
+        //     answer: 'der Pfropfen'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'внешность',
+        //     answer: 'das Äußern'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'протягивать',
+        //     answer: 'reichen'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'бросать',
+        //     answer: 'werfen'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'грех',
+        //     answer: 'die Sünde'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'поднимать',
+        //     answer: 'heben'
         // }, {
         //     id: ,
-        //     question: '',
-        //     answer: ''
+        //     question: 'подкарауливать',
+        //     answer: 'lauern'
         // }, {
         //     id: ,
         //     question: '',
