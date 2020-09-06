@@ -234,55 +234,134 @@ if (localStorage.getItem("data") != null) {
             id: 55,
             question: 'перевернутый',
             answer: 'umgekehrt'
-         }, {
-             id: 56,
+        }, {
+            id: 56,
             question: 'записывать',
-             answer: 'aufschreiben'
+            answer: 'aufschreiben'
         }, {
             id: 57,
             question: 'ящик',
              answer: 'das Fach'
-            
-// }, {
-//     id: 58,
-//     question: 'хранить',
-//     answer: 'aufbewahren'
-// }, {
-//     id: ,
-//     question: 'прелестный',
-//     answer: 'anmutig'
-// }, {
-//     id: ,
-//     question: 'организовывать',
-//     answer: 'veranstalten'
-// }, {
-//     id: ,
-//     question: 'темнота',
-//     answer: 'das Dunkel'
-// }, {
-//     id: ,
-//     question: 'богатый',
-//     answer: 'reich'
-// }, {
-//     id: ,
-//     question: 'ветка',
-//     answer: 'der Zweig'
-// }, {
-//     id: ,
-//     question: 'редкий',
-//     answer: 'sparsam'
-// }, {
-//     id: ,
-//     question: 'экономить',
-//     answer: 'sparen'
-// }, {
-//     id: ,
-//     question: 'собирать',
-//     answer: 'versammeln'
-// }, {
-//     id: ,
-//     question: 'столб',
-//     answer: 'der Pfeiler'
+        }, {
+            id: 58,
+            question: 'хранить',
+            answer: 'aufbewahren'
+        }, {
+            id: 59,
+            question: 'прелестный',
+            answer: 'anmutig'
+        }, {
+            id: 60,
+            question: 'организовывать',
+            answer: 'veranstalten'
+        }, {
+            id: 61,
+            question: 'темнота',
+            answer: 'das Dunkel'
+        }, {
+            id: 62,
+            question: 'богатый',
+            answer: 'reich'
+        }, {
+            id: 63,
+            question: 'ветка',
+            answer: 'der Zweig'
+        }, {
+            id: 64,
+            question: 'редкий',
+            answer: 'sparsam'
+        }, {
+            id: 65,
+            question: 'экономить',
+            answer: 'sparen'
+        }, {
+            id: 66,
+            question: 'собирать',
+            answer: 'versammeln'
+        }, {
+            id: 67,
+            question: 'столб',
+            answer: 'der Pfeiler'
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: ,
+        //     question: '',
+        //     answer: ''
             
         }];
     localStorage.setItem('data', JSON.stringify(data));
