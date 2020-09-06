@@ -234,14 +234,14 @@ if (localStorage.getItem("data") != null) {
             id: 55,
             question: 'перевернутый',
             answer: 'umgekehrt'
-        // }, {
-        //     id: 56,
-        //     question: 'записывать',
-        //     answer: 'aufschreiben'
-        // }, {
-        //     id: 57,
-        //     question: 'ящик',
-        //     answer: 'das Fach'
+         }, {
+             id: 56,
+            question: 'записывать',
+             answer: 'aufschreiben'
+        }, {
+            id: 57,
+            question: 'ящик',
+             answer: 'das Fach'
             
 // }, {
 //     id: 58,
@@ -253,36 +253,36 @@ if (localStorage.getItem("data") != null) {
 //     answer: 'anmutig'
 // }, {
 //     id: ,
-//     question: '',
-//     answer: ''
+//     question: 'организовывать',
+//     answer: 'veranstalten'
 // }, {
 //     id: ,
-//     question: '',
-//     answer: ''
+//     question: 'темнота',
+//     answer: 'das Dunkel'
 // }, {
 //     id: ,
-//     question: '',
-//     answer: ''
+//     question: 'богатый',
+//     answer: 'reich'
 // }, {
 //     id: ,
-//     question: '',
-//     answer: ''
+//     question: 'ветка',
+//     answer: 'der Zweig'
 // }, {
 //     id: ,
-//     question: '',
-//     answer: ''
+//     question: 'редкий',
+//     answer: 'sparsam'
 // }, {
 //     id: ,
-//     question: '',
-//     answer: ''
+//     question: 'экономить',
+//     answer: 'sparen'
 // }, {
 //     id: ,
-//     question: '',
-//     answer: ''
+//     question: 'собирать',
+//     answer: 'versammeln'
 // }, {
 //     id: ,
-//     question: '',
-//     answer: ''
+//     question: 'столб',
+//     answer: 'der Pfeiler'
             
         }];
     localStorage.setItem('data', JSON.stringify(data));
