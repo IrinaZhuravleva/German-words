@@ -282,87 +282,87 @@ if (localStorage.getItem("data") != null) {
             id: 67,
             question: 'столб',
             answer: 'der Pfeiler'
-        // }, {
-        //     id: ,
-        //     question: 'угол',
-        //     answer: 'der Winkel'
-        // }, {
-        //     id: ,
-        //     question: 'скрипач',
-        //     answer: 'der Geigenspieler'
-        // }, {
-        //     id: ,
-        //     question: 'подвал',
-        //     answer: 'das Gewölbe'
-        // }, {
-        //     id: ,
-        //     question: 'лоно, колени сидящего',
-        //     answer: 'der Schoß'
-        // }, {
-        //     id: ,
-        //     question: 'участие',
-        //     answer: 'die Teilnahme'
-        // }, {
-        //     id: ,
-        //     question: 'участвовать в чем-л',
-        //     answer: 'an etwas /Dat./ teilnehmen'
-        // }, {
-        //     id: ,
-        //     question: 'пробка',
-        //     answer: 'der Pfropfen'
-        // }, {
-        //     id: ,
-        //     question: 'внешность',
-        //     answer: 'das Äußern'
-        // }, {
-        //     id: ,
-        //     question: 'протягивать',
-        //     answer: 'reichen'
-        // }, {
-        //     id: ,
-        //     question: 'бросать',
-        //     answer: 'werfen'
-        // }, {
-        //     id: ,
-        //     question: 'грех',
-        //     answer: 'die Sünde'
-        // }, {
-        //     id: ,
-        //     question: 'поднимать',
-        //     answer: 'heben'
-        // }, {
-        //     id: ,
-        //     question: 'подкарауливать',
-        //     answer: 'lauern'
-        // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: ,
-        //     question: '',
-        //     answer: ''
+        }, {
+            id: 68,
+            question: 'угол',
+            answer: 'der Winkel'
+        }, {
+            id: 69,
+            question: 'скрипач',
+            answer: 'der Geigenspieler'
+        }, {
+            id: 70,
+            question: 'подвал',
+            answer: 'das Gewölbe'
+        }, {
+            id: 71,
+            question: 'лоно, колени сидящего',
+            answer: 'der Schoß'
+        }, {
+            id: 72,
+            question: 'участие',
+            answer: 'die Teilnahme'
+        }, {
+            id: 73,
+            question: 'участвовать в чем-л',
+            answer: 'an etwas /Dat./ teilnehmen'
+        }, {
+            id: 74,
+            question: 'пробка',
+            answer: 'der Pfropfen'
+        }, {
+            id: 75,
+            question: 'внешность',
+            answer: 'das Äußern'
+        }, {
+            id: 76,
+            question: 'протягивать',
+            answer: 'reichen'
+        }, {
+            id: 77,
+            question: 'бросать',
+            answer: 'werfen'
+        }, {
+            id: 78,
+            question: 'грех',
+            answer: 'die Sünde'
+        }, {
+            id: 79,
+            question: 'поднимать',
+            answer: 'heben'
+        }, {
+            id: 80,
+            question: 'подкарауливать',
+            answer: 'lauern'
             
+        // }, {
+        //     id: 81,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: 82,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: 83,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: 84,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: 85,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: 86,
+        //     question: '',
+        //     answer: ''
+        // }, {
+        //     id: 87,
+        //     question: '',
+        //     answer: ''  
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
