@@ -334,35 +334,74 @@ if (localStorage.getItem("data") != null) {
             id: 80,
             question: 'подкарауливать',
             answer: 'lauern'
-            
-        // }, {
-        //     id: 81,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: 82,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: 83,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: 84,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: 85,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: 86,
-        //     question: '',
-        //     answer: ''
-        // }, {
-        //     id: 87,
-        //     question: '',
-        //     answer: ''  
+        }, {
+            id: 81,
+            question: 'схватить',
+            answer: 'greifen'
+        }, {
+            id: 82,
+            question: 'звук',
+            answer: 'der Klang'
+        }, {
+            id: 83,
+            question: 'звучать',
+            answer: 'klingen'
+        }, {
+            id: 84,
+            question: 'страсть',
+            answer: 'die Leidenschaft'
+        }, {
+            id: 85,
+            question: 'страдать',
+            answer: 'leiden'
+        }, {
+            id: 86,
+            question: 'присоединяться',
+            answer: 'sich gesellen'
+        }, {
+            id: 87,
+            question: 'подмастерье',
+            answer: 'der Geselle'
+            }, {
+                id: 88,
+                question: 'приезжий',
+                answer: 'der Ankömmling'
+            }, {
+                id: 89,
+                question: 'прибывать',
+                answer: 'ankommen'
+            }, {
+                id: 90,
+                question: 'заходить к кому-либо',
+                answer: 'bei jemandem einkehren'
+            }, {
+                id: 91,
+                question: '',
+                answer: ''
+            }, {
+                id: 92,
+                question: 'пахнуть',
+                answer: 'riechen'
+            }, {
+                id: 93,
+                question: 'елка',
+                answer: 'die Tanne'
+            // }, {
+            //     id: ,
+            //     question: '',
+            //     answer: ''
+            // }, {
+            //     id: ,
+            //     question: '',
+            //     answer: ''
+            // }, {
+            //     id: ,
+            //     question: '',
+            //     answer: ''
+            // }, {
+            //     id: ,
+            //     question: '',
+            //     answer: ''
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
