@@ -19,6 +19,8 @@
 <link href="css/style.css" rel="stylesheet">
 	<body>
 		<div class="links-wrapper">
+			<div class="checking checking-incorrect hidden">Неверно. Выберите заново</div>
+			<div class="checking checking-correct hidden">Верно. Можно продолжать</div>
 			<a class="new-words-link" a href="form.html">Новое слово</a>
 			<button class="new-words-link" onclick="downloadCSV()">Сохранить в виде файла</button>
 			<button class="new-words-link" onclick="resetData()">Сбросить словарь</button>
@@ -32,8 +34,8 @@
 			
 			<div class="answers">
 			</div>
-			<div class="checking checking-incorrect hidden">Неверно. Выберите заново</div>
-			<div class="checking checking-correct hidden">Верно. Можно продолжать</div>
+			<!-- <div class="checking checking-incorrect hidden">Неверно. Выберите заново</div>
+			<div class="checking checking-correct hidden">Верно. Можно продолжать</div> -->
 			<div class="buttons-wrapper">
 				<div class="reload-btn" onclick="location.reload()">Начать заново</div>
 				<button class="nextButton">Дальше</button>

@@ -140,7 +140,8 @@ button {
   padding: 5px 20px;
   color: #ffffff;
   position: absolute;
-  bottom: 80px;
+  /* bottom: 80px; */
+  top: 80px;
   left: 15px;
 }
 
@@ -163,6 +164,7 @@ button {
   margin: 15px;
   display: flex;
   justify-content: space-between;
+  position: relative;
 }
 
 .new-words-link,
