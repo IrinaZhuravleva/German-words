@@ -363,21 +363,21 @@ if (localStorage.getItem("data") != null) {
             question: 'подмастерье',
             answer: 'der Geselle'
             }, {
-                id: 88,
-                question: 'приезжий',
-                answer: 'der Ankömmling'
+            id: 88,
+            question: 'приезжий',
+            answer: 'der Ankömmling'
             }, {
-                id: 89,
-                question: 'прибывать',
-                answer: 'ankommen'
+            id: 89,
+            question: 'прибывать',
+            answer: 'ankommen'
             }, {
                 id: 90,
                 question: 'заходить к кому-либо',
                 answer: 'bei jemandem einkehren'
             }, {
                 id: 91,
-                question: '',
-                answer: ''
+                question: 'разнообразный',
+                answer: 'vielseitig'
             }, {
                 id: 92,
                 question: 'пахнуть',
@@ -386,22 +386,38 @@ if (localStorage.getItem("data") != null) {
                 id: 93,
                 question: 'елка',
                 answer: 'die Tanne'
-            // }, {
-            //     id: ,
-            //     question: '',
-            //     answer: ''
-            // }, {
-            //     id: ,
-            //     question: '',
-            //     answer: ''
-            // }, {
-            //     id: ,
-            //     question: '',
-            //     answer: ''
-            // }, {
-            //     id: ,
-            //     question: '',
-            //     answer: ''
+            }, {
+                id: 94,
+                question: 'применимый',
+                answer: 'einsetzbar'
+            }, {
+                id: 95,
+                question: 'нет',
+                answer: 'hab ich nicht'
+            }, {
+                id: 96,
+                question: 'правда?',
+                answer: 'hab ich Recht?'
+            }, {
+                id: 97,
+                question: 'задний план',
+                answer: 'der Hintergrund'
+            }, {
+                id: 98,
+                question: 'вчерашний',
+                answer: 'gestrig'
+            }, {
+                id: 99,
+                question: 'вчерашнee',
+                answer: 'gestriges'
+            }, {
+                id: 100,
+                question: 'вчерашние',
+                answer: 'gestrigen'
+            }, {
+                id: 101,
+                question: 'реклама',
+                answer: 'die Werbung'
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
