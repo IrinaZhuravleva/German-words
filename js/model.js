@@ -436,9 +436,24 @@ if (localStorage.getItem("data") != null) {
                 answer: 'der Ausbruch'
             }, {
                 id: 106,
-                question: 'führen',
-                answer: 'вести'
-               
+                question: 'вести',
+                answer: 'führen'
+            }, {
+                id: 107,
+                question: 'самое позднее',
+                answer: 'spätestens'
+            }, {
+                id: 108,
+                question: 'предоставлять',
+                answer: 'verschaffen'
+            }, {
+                id: 109,
+                question: 'расслаблять',
+                answer: 'entspannen'
+            }, {
+                id: 110,
+                question: 'также',
+                answer: 'ebenfalls'
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
