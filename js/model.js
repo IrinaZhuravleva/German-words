@@ -417,7 +417,28 @@ if (localStorage.getItem("data") != null) {
             }, {
                 id: 101,
                 question: 'реклама',
-                answer: 'die Werbung'
+                answer: 'die Werbung',
+            }, {
+                id: 102,
+                question: 'для этого',
+                answer: 'dazu'
+            }, {
+                id: 103,
+                question: 'осознанность',
+                answer: 'die Bewusstheit'
+            }, {
+                id: 104,
+                question: 'появляться',
+                answer: 'erscheinen'
+            }, {
+                id: 105,
+                question: 'начало',
+                answer: 'der Ausbruch'
+            }, {
+                id: 106,
+                question: 'führen',
+                answer: 'вести'
+               
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
