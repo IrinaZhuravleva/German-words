@@ -454,6 +454,10 @@ if (localStorage.getItem("data") != null) {
                 id: 110,
                 question: 'также',
                 answer: 'ebenfalls'
+            }, {
+                id: 111,
+                question: 'служить',
+                answer: 'dienen'
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
