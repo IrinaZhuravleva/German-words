@@ -458,6 +458,23 @@ if (localStorage.getItem("data") != null) {
                 id: 111,
                 question: 'служить',
                 answer: 'dienen'
+            }, {
+                id: 112,
+                question: 'доверять',
+                answer: 'vertrauen'
+            }, {
+                id: 113,
+                question: 'жизнь',
+                answer: 'das Leben'
+            }, {
+                id: 114,
+                question: 'строить',
+                answer: 'aufbauen'
+            }, {
+                id: 115,
+                question: 'рекомендация',
+                answer: 'die Empfehlung'
+           
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
