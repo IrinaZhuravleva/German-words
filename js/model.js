@@ -474,7 +474,102 @@ if (localStorage.getItem("data") != null) {
                 id: 115,
                 question: 'рекомендация',
                 answer: 'die Empfehlung'
-           
+                }, {
+                    id: 116,
+                    question: 'влиять',
+                    answer: 'beeinflussen'
+                }, {
+                    id: 117,
+                    question: 'всем',
+                    answer: 'gesamten'
+                }, {
+                    id: 118,
+                    question: 'после этого',
+                    answer: 'danach'
+                }, {
+                    id: 119,
+                    question: 'закрываться',
+                    answer: 'schliessen'
+                }, {
+                    id: 120,
+                    question: 'позволять',
+                    answer: 'erlauben'
+                }, {
+                    id: 121,
+                    question: 'обогащать',
+                    answer: 'bereichern'
+                }, {
+                    id: 122,
+                    question: 'умственный',
+                    answer: 'geistig'
+                }, {
+                    id: 123,
+                    question: 'видеть',
+                    answer: 'shauten'
+                }, {
+                    id: 124,
+                    question: 'там',
+                    answer: 'dort'
+                }, {
+                    id: 125,
+                    question: 'весь',
+                    answer: 'ganz'
+                }, {
+                    id: 126,
+                    question: 'распределять',
+                    answer: 'verteilen'
+                }, {
+                    id: 127,
+                    question: 'использовать',
+                    answer: 'nutzen'
+                }, {
+                    id: 128,
+                    question: 'следующее',
+                    answer: 'weiteres'
+                }, {
+                    id: 129,
+                    question: 'сотворять',
+                    answer: 'erschaffen'
+                }, {
+                    id: 130,
+                    question: 'успешный',
+                    answer: 'erfolgreich'
+                }, {
+                    id: 131,
+                    question: 'направлено',
+                    answer: 'gelenkt'
+                }, {
+                    id: 132,
+                    question: 'направлять',
+                    answer: 'lenken'
+                }, {
+                    id: 133,
+                    question: 'обещать',
+                    answer: 'vershpeichen'
+                // }, {
+                //     id: ,
+                //     question: '',
+                //     answer: ''
+                // }, {
+                //     id: ,
+                //     question: '',
+                //     answer: ''
+                // }, {
+                //     id: ,
+                //     question: '',
+                //     answer: ''
+                // }, {
+                //     id: ,
+                //     question: '',
+                //     answer: ''
+                // }, {
+                //     id: ,
+                //     question: '',
+                //     answer: ''
+                // }, {
+                //     id: ,
+                //     question: '',
+                //     answer: ''
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
