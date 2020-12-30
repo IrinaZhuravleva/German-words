@@ -546,30 +546,42 @@ if (localStorage.getItem("data") != null) {
                     id: 133,
                     question: 'обещать',
                     answer: 'vershpeichen'
-                // }, {
-                //     id: ,
-                //     question: '',
-                //     answer: ''
-                // }, {
-                //     id: ,
-                //     question: '',
-                //     answer: ''
-                // }, {
-                //     id: ,
-                //     question: '',
-                //     answer: ''
-                // }, {
-                //     id: ,
-                //     question: '',
-                //     answer: ''
-                // }, {
-                //     id: ,
-                //     question: '',
-                //     answer: ''
-                // }, {
-                //     id: ,
-                //     question: '',
-                //     answer: ''
+                }, {
+                    id: 134,
+                    question: 'жесткий',
+                    answer: 'hart'
+                }, {
+                    id: 135,
+                    question: 'потолок/одеяло',
+                    answer: 'die Decke'
+                }, {
+                    id: 136,
+                    question: 'осознанно/сознательный',
+                    answer: 'bewusst'
+                }, {
+                    id: 137,
+                    question: 'доходить',
+                    answer: 'naben'
+                }, {
+                    id: 138,
+                    question: 'нагружать',
+                    answer: 'belasten'
+                }, {
+                    id: 139,
+                    question: 'страна',
+                    answer: 'das Land'
+                }, {
+                    id: 140,
+                    question: 'настроение',
+                    answer: 'die Stimmung'
+                }, {
+                    id: 141,
+                    question: 'а также',
+                    answer: 'sowie'
+                }, {
+                    id: 142,
+                    question: 'движение',
+                    answer: 'der Lauf'
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
