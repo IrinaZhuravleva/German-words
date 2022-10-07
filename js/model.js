@@ -582,6 +582,42 @@ if (localStorage.getItem("data") != null) {
                     id: 142,
                     question: 'движение',
                     answer: 'der Lauf'
+                }, {
+                    id: 143,
+                    question: 'подвергать сомнению',
+                    answer: 'bezweifeln'
+                }, {
+                    id: 144,
+                    question: 'предполагать',
+                    answer: 'vermuten'
+                }, {
+                    id: 145,
+                    question: 'раньше/заранее',
+                    answer: 'vorher'
+                }, {
+                    id: 146,
+                    question: 'место/местечко',
+                    answer: 'der Ort'
+                }, {
+                    id: 147,
+                    question: 'наказание',
+                    answer: 'die Bestrafung'
+                }, {
+                    id: 148,
+                    question: 'захватывать/необъективный',
+                    answer: 'befangen'
+                }, {
+                    id: 149,
+                    question: 'результат',
+                    answer: 'das Ergebnis'
+                }, {
+                    id: 150,
+                    question: 'беседовать',
+                    answer: 'plaudern'
+                // }, {
+                //     id: 14,
+                //     question: '',
+                //     answer: ''
         }];
     localStorage.setItem('data', JSON.stringify(data));
 }
